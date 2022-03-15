@@ -1,3 +1,4 @@
+
 public class AdvancedWeek {
 	private String day_1 = "Monday";
 	private int day_1_index = 1;
